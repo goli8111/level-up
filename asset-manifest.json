@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/level-up/static/css/main.d1b05096.chunk.css",
-    "main.js": "/level-up/static/js/main.5e0b7f31.chunk.js",
-    "main.js.map": "/level-up/static/js/main.5e0b7f31.chunk.js.map",
+    "main.css": "/level-up/static/css/main.da58cc24.chunk.css",
+    "main.js": "/level-up/static/js/main.4dd38db3.chunk.js",
+    "main.js.map": "/level-up/static/js/main.4dd38db3.chunk.js.map",
     "runtime-main.js": "/level-up/static/js/runtime-main.fda8c415.js",
     "runtime-main.js.map": "/level-up/static/js/runtime-main.fda8c415.js.map",
-    "static/js/2.3d55dde5.chunk.js": "/level-up/static/js/2.3d55dde5.chunk.js",
-    "static/js/2.3d55dde5.chunk.js.map": "/level-up/static/js/2.3d55dde5.chunk.js.map",
+    "static/js/2.3bf5b8f7.chunk.js": "/level-up/static/js/2.3bf5b8f7.chunk.js",
+    "static/js/2.3bf5b8f7.chunk.js.map": "/level-up/static/js/2.3bf5b8f7.chunk.js.map",
     "index.html": "/level-up/index.html",
-    "precache-manifest.0420d6e05780fea65f5d9c9c0b7ac01e.js": "/level-up/precache-manifest.0420d6e05780fea65f5d9c9c0b7ac01e.js",
+    "precache-manifest.81b0e4cdaf80a3608881b098bdf17280.js": "/level-up/precache-manifest.81b0e4cdaf80a3608881b098bdf17280.js",
     "service-worker.js": "/level-up/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/level-up/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3d55dde5.chunk.js.LICENSE": "/level-up/static/js/2.3d55dde5.chunk.js.LICENSE",
+    "static/css/main.da58cc24.chunk.css.map": "/level-up/static/css/main.da58cc24.chunk.css.map",
+    "static/js/2.3bf5b8f7.chunk.js.LICENSE": "/level-up/static/js/2.3bf5b8f7.chunk.js.LICENSE",
     "static/media/my_info.jpeg": "/level-up/static/media/my_info.e73c4aba.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.fda8c415.js",
-    "static/js/2.3d55dde5.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.5e0b7f31.chunk.js"
+    "static/js/2.3bf5b8f7.chunk.js",
+    "static/css/main.da58cc24.chunk.css",
+    "static/js/main.4dd38db3.chunk.js"
   ]
 }
